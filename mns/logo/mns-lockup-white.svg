@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 800">
+<rect width="2400" height="800" fill="#1B2B4A"/>
+<g transform="translate(60,55) scale(0.69)">
+  <path d="M180,438 L500,168 L820,438" fill="none" stroke="#FFFFFF" stroke-width="58" stroke-linejoin="miter" stroke-linecap="square"/><path d="M666,206 h54 v88 l-54,-46 z" fill="#FFFFFF"/><rect x="656" y="188" width="74" height="30" rx="6" fill="#FFFFFF"/><path d="M282,832 L282,438 L372,438 L500,628 L628,438 L718,438 L718,832 L636,832 L636,562 L500,760 L364,562 L364,832 Z" fill="#FFFFFF" />
+</g>
+<text x="850" y="488" font-family="Outfit" font-weight="700" font-size="340"
+      fill="#FFFFFF" letter-spacing="6">MARS</text>
+<text x="854" y="612" font-family="Outfit" font-weight="400" font-size="75"
+      fill="#FFFFFF" letter-spacing="15.5">NETWORK SERVICES</text>
+</svg>

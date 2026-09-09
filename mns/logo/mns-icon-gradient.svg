@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><defs>
+<linearGradient id="roofg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#F7941D"/><stop offset="0.55" stop-color="#EF3B24"/><stop offset="1" stop-color="#E31B23"/>
+</linearGradient>
+<linearGradient id="mg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#00AEEF"/><stop offset="0.38" stop-color="#6C4FD0"/>
+  <stop offset="0.7" stop-color="#D6368F"/><stop offset="1" stop-color="#F7941D"/>
+</linearGradient>
+</defs>
+<rect width="1000" height="1000" fill="#FFFFFF"/>
+<g><path d="M180,438 L500,168 L820,438" fill="none" stroke="url(#roofg)" stroke-width="58" stroke-linejoin="miter" stroke-linecap="square"/><path d="M666,206 h54 v88 l-54,-46 z" fill="#E31B23"/><rect x="656" y="188" width="74" height="30" rx="6" fill="#E31B23"/><path d="M282,832 L282,438 L372,438 L500,628 L628,438 L718,438 L718,832 L636,832 L636,562 L500,760 L364,562 L364,832 Z" fill="url(#mg)" /></g>
+</svg>
