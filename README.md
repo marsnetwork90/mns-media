@@ -2,13 +2,15 @@
 
 Single source of truth for Mars Network Services and Mara marketing media. Buffer, the sites, email and Canva pull files from here by URL, so a URL in this repo is a published, stable address.
 
-Raw URL pattern: `https://raw.githubusercontent.com/marsnetwork90/mns-media/main/<folder>/<file>`. Once Cloudflare Pages is attached, the same paths serve at `https://media.themarsnetwork.com/<folder>/<file>`.
+Raw URL pattern: `https://raw.githubusercontent.com/marsnetwork90/mns-media/main/<folder>/<file>`. The same paths serve through Cloudflare Pages at `https://media.themarsnetwork.com/<folder>/<file>` (and `https://mns-media.pages.dev/...`), with correct content types, long-lived caching and CORS from the `_headers` file. Prefer the media.themarsnetwork.com URL on the sites and in email; either works in Buffer and Canva.
 
 Mara lobby, kiosk and industry images are AI-generated environments with real product screens composited on; nothing shows an invented interface.
 
 ## Rules
 
 Filenames are lowercase with hyphens and no spaces, and they never change. Never overwrite a file with different content under the same name, because Buffer and the sites cache by URL; add a version suffix such as `-v2`, commit the new file, and update the table here. Only finished, publishable files live in this repo. Captures, plates, narration, masks and build scripts stay in the project folder.
+
+Cloudflare Pages rejects any file over 25 MiB, so keep every file under that; re-encode video if needed.
 
 Brand: Outfit typeface, navy `#1B2B4A`, red-orange `#E8452B`. See `_Shared/brand-assets.md` in the project for full rules.
 
@@ -20,7 +22,7 @@ Finished cuts only. Captures, plates, narration, masks and build scripts stay in
 |---|---|---|---|
 | `mara-demo-60s.mp4` | Mara product demo, 62 s, 1920x1080 landscape | Facebook and LinkedIn feed posts, mara.themarsnetwork.com hero video, sales email | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-demo-60s.mp4 |
 | `mara-hook-vertical-25s.mp4` | Short hook cut, 25 s, 1080x1920 vertical | Instagram Reels, Facebook Reels and Stories | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-hook-vertical-25s.mp4 |
-| `mara-explainer-90s.mp4` | Full explainer, 97 s, 1920x1080 landscape | Site explainer section, YouTube, sales follow-up email | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-explainer-90s.mp4 |
+| `mara-explainer-90s-v2.mp4` | Full explainer, 97 s, 1920x1080 landscape, 20.6 MiB (v2: re-encoded under the 25 MiB Cloudflare Pages limit; the 40 MiB v1 was never referenced and was removed) | Site explainer section, YouTube, sales follow-up email | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-explainer-90s-v2.mp4 |
 
 ## mara/site
 
