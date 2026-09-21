@@ -102,6 +102,16 @@ Print and social graphics built with the Mara wordmark, MNS colors and Outfit. N
 | `mara-avatar-popout.png` | Mara on a navy disc with red ring, transparent background, 577x665 | Flyer and social graphics | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-avatar-popout.png |
 | `mara-avatar-cutout.png` | Mara full cutout, transparent background, 1080x1080 | Anywhere she sits on navy | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-avatar-cutout.png |
 
+## mns/social
+
+Instagram-ready stills for MNS (not Mara) posts. 1080x1440 (3:4) JPEG. AI-generated (Kling image v3 omni / Gemini 3 Pro Image via the Kling MCP, 2026-09-21), used as portfolio imagery by Alex's decision on 2026-09-21.
+
+| File | What it is | Where it is used | Raw URL |
+|---|---|---|---|
+| `switch-stack-rack-2026-09.jpg` | Wall-mount rack: patch panel, dressed blue Cat6 into a 24-port switch, router shelf, UPS | Instagram 9/26 "A rack you can read" | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mns/social/switch-stack-rack-2026-09.jpg |
+| `closet-before-2026-09.jpg` | Wiring closet before cleanup, tangled cables, router on its side | Instagram 9/30 before/after carousel, frame 1 | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mns/social/closet-before-2026-09.jpg |
+| `closet-after-2026-09.jpg` | Same closet after cleanup, dressed enclosure, clear floor | Instagram 9/30 before/after carousel, frame 2 | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mns/social/closet-after-2026-09.jpg |
+
 ## mns/logo
 
 Mars Network Services logo set. Flat navy and red-orange is primary. Icon versions only in circular crops; the lockup never goes in an avatar. Do not recolor, stretch or add effects. Gradient versions are a legacy option for Instagram only, never B2B.
