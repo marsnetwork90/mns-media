@@ -104,10 +104,11 @@ Print and social graphics built with the Mara wordmark, MNS colors and Outfit. N
 
 ## mns/social
 
-Instagram-ready stills for MNS (not Mara) posts. 1080x1440 (3:4) JPEG. AI-generated (Kling image v3 omni / Gemini 3 Pro Image via the Kling MCP, 2026-09-21), used as portfolio imagery by Alex's decision on 2026-09-21.
+Instagram-ready stills for MNS (not Mara) posts. JPEG. The Design Center file is a real screenshot; the other three are AI-generated (Kling image v3 omni / Gemini 3 Pro Image via the Kling MCP, 2026-09-21), used as portfolio imagery by Alex's decision on 2026-09-21.
 
 | File | What it is | Where it is used | Raw URL |
 |---|---|---|---|
+| `design-center-floorplan-2026-09.jpg` | Real UniFi Design Center screenshot, camera and AP layout on a commercial floor plan, tenant names blurred, 1080x1035 | Instagram 9/22 "Every camera project starts here" | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mns/social/design-center-floorplan-2026-09.jpg |
 | `switch-stack-rack-2026-09.jpg` | Wall-mount rack: patch panel, dressed blue Cat6 into a 24-port switch, router shelf, UPS | Instagram 9/26 "A rack you can read" | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mns/social/switch-stack-rack-2026-09.jpg |
 | `closet-before-2026-09.jpg` | Wiring closet before cleanup, tangled cables, router on its side | Instagram 9/30 before/after carousel, frame 1 | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mns/social/closet-before-2026-09.jpg |
 | `closet-after-2026-09.jpg` | Same closet after cleanup, dressed enclosure, clear floor | Instagram 9/30 before/after carousel, frame 2 | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mns/social/closet-after-2026-09.jpg |
