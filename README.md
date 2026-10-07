@@ -107,7 +107,8 @@ Print and social graphics built with the Mara wordmark, MNS colors and Outfit. N
 
 | File | What it is | Where it is used | Raw URL |
 |---|---|---|---|
-| `mara-flyer-letter.pdf` | US Letter print-ready handout, QR to mara.themarsnetwork.com | Leave-behind for builder offices, salons, dental and professional offices | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-flyer-letter.pdf |
+| `mara-flyer-letter.pdf` | US Letter handout. SUPERSEDED 2026-10-07: shows the retired (813) 501-5467 number | Nothing new; use mara-flyer-letter-v2.pdf | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-flyer-letter.pdf |
+| `mara-flyer-letter-v2.pdf` | US Letter print-ready handout, QR to mara.themarsnetwork.com, main number (386) 359-4179 | Leave-behind for builder offices, salons, dental and professional offices | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-flyer-letter-v2.pdf |
 | `mara-social-square-1080.png` | Square social graphic, 1080x1080 | Instagram and Facebook feed posts, Meta static ads | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-social-square-1080.png |
 | `mara-avatar-popout.png` | Mara on a navy disc with red ring, transparent background, 577x665 | Flyer and social graphics | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-avatar-popout.png |
 | `mara-avatar-cutout.png` | Mara full cutout, transparent background, 1080x1080 | Anywhere she sits on navy | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/flyers/mara-avatar-cutout.png |
