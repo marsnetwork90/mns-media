@@ -33,6 +33,8 @@ Finished cuts only. Captures, plates, narration, masks and build scripts stay in
 | `mara-faq-kiosk-vertical-15s.mp4` | Ask Mara: "Do I need the kiosk?", 15 s, 1080x1920, no pricing | Any channel, LinkedIn included | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-faq-kiosk-vertical-15s.mp4 |
 | `mara-faq-kiosk-vertical-17s-fb.mp4` | Ask Mara: "Do I need the kiosk?" with the "Phone plans start at $199 a month" tag, 17 s, 1080x1920 | Facebook and Instagram only | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-faq-kiosk-vertical-17s-fb.mp4 |
 | `mara-faq-spanish-vertical-11s.mp4` | Ask Mara: "¿Habla español?", 11 s, 1080x1920, no pricing (on-screen note: Spanish on every kiosk plan and on Phone Pro) | Any channel, LinkedIn included | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-faq-spanish-vertical-11s.mp4 |
+| `mara-ad-three-doors-vertical-17s.mp4` | Meta paid ad "One Mara, three doors", 17 s, 1080x1920, 5.2 MiB, captions burned in. Public pricing: "Phone answering from $199/month. Lobby kiosk from $449/month." + "Plus one-time setup." | Meta ads: Reels and Stories placements. Never LinkedIn | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-ad-three-doors-vertical-17s.mp4 |
+| `mara-ad-three-doors-4x5-17s.mp4` | Same ad, 4:5 center crop, 1080x1350, 3.5 MiB | Meta ads: Facebook and Instagram Feed placements. Never LinkedIn | https://raw.githubusercontent.com/marsnetwork90/mns-media/main/mara/video/mara-ad-three-doors-4x5-17s.mp4 |
 
 ## mara/site
 
